@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "190988745042",
+    "firebase_url": "https://loyaltyappbellagiocolombo-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "loyaltyappbellagiocolombo",
+    "storage_bucket": "loyaltyappbellagiocolombo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190988745042:android:46bdecbead54ce484a228b",
+        "android_client_info": {
+          "package_name": "com.bellagio.loyalty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrOtjOHKXPWUlyDb-bEi0FhfEIBL3nzGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190988745042:android:385684ea494a72be4a228b",
+        "android_client_info": {
+          "package_name": "com.bellagio.sales"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrOtjOHKXPWUlyDb-bEi0FhfEIBL3nzGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+class Routes {
+  static const initial = '/';
+  static const signIn = 'signIn';
+  static const forgotPassword = 'forgot_passwod';
+  static const signUp = 'signUp';
+  static const enterMobileNumber = 'enterMobileNumber';
+  static const enterOtp = 'enterOtp';
+  static const notifications = 'notifications';
+  static const profile = 'profile_screen';
+  static const entertainment = 'entertainment';
+  static const gifts = 'gifts';
+  static const rewards = 'rewards';
+  static const tournaments = 'tournaments';
+  static const packages = 'packages';
+  static const offersScreen = 'offers_screen';
+  static const home = 'home_screen';
+  static const offer = 'offer';
+  static const generalRequest = 'general_request';
+  static const splash_screen = 'splash_screen';
+  static const airTicketScreen = 'air_ticket';
+  static const transportRequest = 'transport_request';
+  static const airTicketRequest = 'air_ticket_request';
+  static const hotelReservation = 'hotel_reservation';
+  static const moneyDeposit = 'money_deposit';
+  static const paymentMode = 'payment_mode';
+  static const navDashboard = 'navbar_dashboard';
+  static const myCards = 'my_cards';
+  static const feedback = 'feddback_screen';
+  static const boardingPass = 'air_ticket_boarding_pass';
+  static const chat = 'chat';
+  static const viewGifts = 'view_Gifts';
+  static const videoPlayerScreen = 'video_player_screen';
+  static const chatOptions = 'chat_options_screen';
+}
